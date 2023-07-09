@@ -21,18 +21,6 @@
 </a>
 </center>
 
-![DevOps for Life - ElasticSearch](img/infraestrutura.png)
-
-
-# DevOps For Life
-
-![DevOps For Life](img/logo-hotmart.png)
-
-Este repositório pertence a comunidade DevOps for Life.
-
-http://devopsforlife.io
-
-Acesse e aproveite o cupom de desconto para usuários do GitHub!
 
 
 
